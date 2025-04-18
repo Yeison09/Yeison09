@@ -40,6 +40,17 @@ Desarrollador FullStack
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+
+
 <img 
     align="left" 
     alt="Java"
@@ -64,6 +75,37 @@ Desarrollador FullStack
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="Mysql"
+    title="Mysql" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="AndroidStudio"
+    title="AndroidStudio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+/>   
+
+
+<img 
+    align="left" 
+    alt="SEO" 
+    title="SEO"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/816/8161937.png" 
+/>
+
+
 
 <img 
     align="left" 
