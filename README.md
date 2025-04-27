@@ -1,7 +1,9 @@
 # 👨🏻‍💻 Yeison Carmona
-Desarrollador FullStack
 
-¡Hola! Soy Yeison Carmona, apasionado por la tecnología y el desarrollo web. Especializado en PHP, WordPress y tecnologías modernas del frontend. Comparto mis conocimientos y proyectos en mis redes sociales y plataformas de contenido.
+
+Soy un apasionado de la tecnología y el desarrollo web, con especialización en PHP, JavaScript, Java, HTML, CSS, WordPress, Gutenberg (plugins) y tecnologías modernas de frontend como Bootstrap. Actualmente, me estoy enfocando en el desarrollo backend con Laravel, fortaleciendo así mi perfil como desarrollador fullstack, área en la que ya cuento con un año de experiencia. Me encanta compartir mis conocimientos y proyectos a través de redes sociales y plataformas digitales, siempre buscando crecer y aportar valor a la comunidad tecnológica.
+
+
 
 ---
 
